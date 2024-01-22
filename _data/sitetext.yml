@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: "My Story"
+    body: "Data Analyst with a love for leveraging data-driven insights to uncover meaningful patterns, optimize business strategies, and drive informed decision-making. <br><br>Proficiency with dashboarding, performance tracking, Pandas, Excel, SQL, Tableau, and Python to transform data into meaningful and easily understood visualizations and presentations. Completed a Bachelor of Arts degree in Computer Science from the University of Rhode Island, as well as the Data Analytics Certification from Thinkful (Chegg Skills). <br><br>I grew up around the New England area in the US but have traveled all over since my service in the US Navy. Outside of data, I enjoy traveling, history, video games, and food!"
     section: about
 
   clients:
@@ -92,46 +92,42 @@ en: &DEFAULT_EN
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  # team:
+  #   title: "OUR AMAZING TEAM"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #   section: team
+  #   people:
+  #     - name: "Angela Deslandes"
+  #       role: "Data Analyst"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://linkedin.com/in/angela-deslandes
+  #           icon: fab fa-linkedin-in
+  #     - name: "Larry Parker"
+  #       role: "Lead Marketer"
+  #       image: assets/img/team/2.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Diana Perterson"
+  #       role: "Lead Developer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
 
   contact:
-    title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    title: "Contact"
+    text: "Email or call +1 213-712-4612"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -147,16 +143,12 @@ en: &DEFAULT_EN
   footer:
     legal: "Privacy Policy"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      - url: https://linkedin.com/in/angela-deslandes
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/ang-des
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      # - url: https://instagram.com
+      #   icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
 en-CA:
@@ -251,46 +243,46 @@ es: &DEFAULT_ES
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
 
-  team:
-    title: "NUESTRO INCREÍBLE EQUIPO"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: equipo
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+  # team:
+  #   title: "NUESTRO INCREÍBLE EQUIPO"
+  #   text: "Lorem ipsum dolor sit amet consectetur."
+  #   subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+  #   section: equipo
+  #   people:
+  #     - name: "Kay Garland"
+  #       role: "Lead Designer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Larry Parker"
+  #       role: "Lead Marketer"
+  #       image: assets/img/team/2.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
+  #     - name: "Diana Perterson"
+  #       role: "Lead Developer"
+  #       image: assets/img/team/500x500.jpg
+  #       social:
+  #         - url: https://twitter.com
+  #           icon: fab fa-twitter
+  #         - url: https://facebook.com
+  #           icon: fab fa-facebook-f
+  #         - url: https://linkedin.com
+  #           icon: fab fa-linkedin-in
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Email or call +1 213-712-4612"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
@@ -306,16 +298,16 @@ es: &DEFAULT_ES
   footer:
     legal: "Política de Privacidad"
     social:
-      - url: https://twitter.com
-        icon: "fab fa-twitter"
-      - url: https://facebook.com
-        icon: "fab fa-facebook-f"
-      - url: https://linkedin.com
+      # - url: https://twitter.com
+      #   icon: "fab fa-twitter"
+      # - url: https://facebook.com
+      #   icon: "fab fa-facebook-f"
+      - url: https://linkedin.com/in/angela-deslandes
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/ang-des
         icon: "fab fa-github"
-      - url: https://instagram.com
-        icon: "fab fa-instagram"
+      # - url: https://instagram.com
+      #   icon: "fab fa-instagram"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
