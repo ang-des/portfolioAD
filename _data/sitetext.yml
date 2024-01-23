@@ -53,17 +53,17 @@ en: &DEFAULT_EN
     events:
       - title: "Bally's Twin River Casino"
         year: "2019-2022"
-        desc: "<i>Surveillance Officer.</i> <br><br>Reviewed security footage using Genetek and iTrak systems to report Daily Logs and notate incidents throughout the property. <br><br>Conducted routine audits on employees spanning 114 live table games to ensure compliance with regulations and protocols. <br><br>Analyzed visual information for over 4,200 slot machines and virtual table gaming machines with attention to detail to identify patterns and anomalies."
+        desc: "<i>Surveillance Officer</i> <br><br>Reviewed security footage using Genetek and iTrak systems to report Daily Logs and notate incidents throughout the property. <br><br>Conducted routine audits on employees spanning 114 live table games to ensure compliance with regulations and protocols. <br><br>Analyzed visual information for over 4,200 slot machines and virtual table gaming machines with attention to detail to identify patterns and anomalies."
         image: assets/img/timeline/bally.png
         alt:
       - title: "Palladion Services"
         year: "2018-2019"
-        desc: "<i>Security Officer.</i> <br><br>Collaborated with cross-functional teams to provide insights based on surveillance data on three different properties. <br><br>Prepared written reports of daily activities, observations, and incidents to ensure accurate documentation. <br><br>Monitored CCTV security footage for suspicious activity, trespassers, and potential threats."
+        desc: "<i>Security Officer</i> <br><br>Collaborated with cross-functional teams to provide insights based on surveillance data on three different properties. <br><br>Prepared written reports of daily activities, observations, and incidents to ensure accurate documentation. <br><br>Monitored CCTV security footage for suspicious activity, trespassers, and potential threats."
         image: assets/img/timeline/security.png
         alt:
       - title: "US Navy"
         year: "2012-2016"
-        desc: "<i>AME2 - Aviation Structural Mechanic, Safety Equipment.</i> <br><br>Leveraged complex problem-solving skills to review relevant information and develop solutions on 12 F/A-18E/F Super Hornet naval aircraft. <br><br>Identified the cause of operating errors and provided efficient troubleshooting while using pertinent data and individual judgment to ensure compliance with naval laws, regulations, and standards. <br><br>Executed over 1,894 maintenance actions specializing in Environmental Control Systems, Life Support Systems, Egress / Ejection Seat maintenance, and basic corrosion control."
+        desc: "<i>AME2 - Aviation Structural Mechanic, Safety Equipment</i> <br><br>Leveraged complex problem-solving skills to review relevant information and develop solutions on 12 F/A-18E/F Super Hornet naval aircraft. <br><br>Identified the cause of operating errors and provided efficient troubleshooting while using pertinent data and individual judgment to ensure compliance with naval laws, regulations, and standards. <br><br>Executed over 1,894 maintenance actions specializing in Environmental Control Systems, Life Support Systems, Egress / Ejection Seat maintenance, and basic corrosion control."
         image: assets/img/timeline/navy.png
         alt: image alt text
       # - title: "Title"
