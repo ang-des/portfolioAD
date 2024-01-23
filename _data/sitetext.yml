@@ -63,7 +63,7 @@ en: &DEFAULT_EN
         alt:
       - title: "US Navy"
         year: "2012-2016"
-        desc: "<i>Aviation Structural Mechanic, Safety Equipment.</i> <br><br>Leveraged complex problem-solving skills to review relevant information and develop solutions on 12 F/A-18E/F Super Hornet naval aircraft. <br><br>Identified the cause of operating errors and provided efficient troubleshooting while using pertinent data and individual judgment to ensure compliance with naval laws, regulations, and standards. <br><br>Executed over 1,894 maintenance actions specializing in Environmental Control Systems, Life Support Systems, Egress / Ejection Seat maintenance, and basic corrosion control."
+        desc: "<i>AME2 - Aviation Structural Mechanic, Safety Equipment.</i> <br><br>Leveraged complex problem-solving skills to review relevant information and develop solutions on 12 F/A-18E/F Super Hornet naval aircraft. <br><br>Identified the cause of operating errors and provided efficient troubleshooting while using pertinent data and individual judgment to ensure compliance with naval laws, regulations, and standards. <br><br>Executed over 1,894 maintenance actions specializing in Environmental Control Systems, Life Support Systems, Egress / Ejection Seat maintenance, and basic corrosion control."
         image: assets/img/timeline/navy.png
         alt: image alt text
       # - title: "Title"
