@@ -92,7 +92,10 @@ With 95% confidence, the difference in means is between $71,662 and $90,182.
 
 Rejected the null that there is no significant difference in means between houses that have central air and those that do that.
 
-![graphs](https://github.com/ang-des/home-prices-business-research/blob/main/images/all-graphs.png?raw=true)
+<p align="center">
+  <br>
+  <img src="https://github.com/ang-des/home-prices-business-research/blob/main/images/all-graphs.png?raw=true" alt="all graphs" width=600>
+</p>
 
 ## Top variables that drive home prices
 
