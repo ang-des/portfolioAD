@@ -1,12 +1,12 @@
 ---
 title: World University Rankings 2012-2015
-image: assets/img/portfolio/neighborhood.png
+image: assets/img/portfolio/flags.png
 alt: Python
 
 caption:
   title: World University Rankings 2012-2015
   subtitle: Python
-  thumbnail: assets/img/portfolio/neighborhood.png
+  thumbnail: assets/img/portfolio/flags.png
 ---
 
 
