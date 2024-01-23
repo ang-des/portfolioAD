@@ -127,5 +127,5 @@ Although the publications are essential, universities should prioritize providin
 The correlation between publication rank and world rank implies that universities should focus on improving their research output and publications. This can be achieved by investing in research facilities, supporting faculty members in their research, and collaborating with other institutions. 
 
 
-
+[Link to Github](https://github.com/ang-des/Global-University-Rankings)
 
