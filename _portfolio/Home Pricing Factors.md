@@ -80,6 +80,11 @@ With 95% confidence, the difference in means is between $73,817 and $90,507.
 
 Rejected the null that there is no significant difference in means between houses with and without garages.
 
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/test-garages.png" alt="all graphs" width=700>
+</p>
+
 <br>
 
 #### Fireplaces
@@ -90,6 +95,11 @@ With 95% confidence, the difference in means is between $68,087 and $82,044.
 
 Rejected the null that there is no significant difference in means between houses that have fireplaces and those that don’t.
 
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/test-fireplaces.png" alt="all graphs" width=700>
+</p>
+
 <br>
 
 #### Overall Quality
@@ -99,6 +109,11 @@ Higher quality homes (6-10 rating) sold more than lower quality homes, accountin
 With 95% confidence, the difference in means is between $93,420 and $81,678.
 
 Rejected the null that there is no significant difference in means between houses with a quality rating of 1-5 (low) and those with a quality rating of 6-10 (high)
+
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/test-quality.png" alt="all graphs" width=700>
+</p>
 
 <br>
 
@@ -112,7 +127,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="https://github.com/ang-des/home-prices-business-research/blob/main/images/all-graphs.png?raw=true" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/test-centralair.png" alt="all graphs" width=700>
 </p>
 
 <br>
@@ -125,6 +140,11 @@ Rejected the null that there is no significant difference in means between house
 4. Year remodel added
 5. Year built
 6. Neighborhoods
+
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/all-graphs.png" alt="all graphs" width=700>
+</p>
 
 <br>
 
