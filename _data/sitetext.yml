@@ -25,7 +25,7 @@ en: &DEFAULT_EN
   services:
     title: "Skills"
     text: "What I Have Experience In"
-    section: services
+    section: skills
     list:
       - title: "Skills"
         desc: "Statistical Analysis. A/B testing. Predictive Analytics. Descriptive Statistics. Data Cleansing. Data Visualization. Data Exploration."
