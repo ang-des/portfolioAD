@@ -1,3 +1,14 @@
+---
+title: Pet Salon Transactions
+image: assets/img/portfolio/pets.png
+alt: SQL
+
+caption:
+  title: Pet Salon Transactions
+  subtitle: SQL
+  thumbnail: assets/img/portfolio/pets.png
+---
+
 # Pet Salon Transactions
 
 1. Write a query that returns the owner_id of the owners table and the transaction_id and service of the transactions table. Ensure that all records from the transactions table are returned, and sort the results in ascending order according to owner_id.  
