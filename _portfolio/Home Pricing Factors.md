@@ -32,8 +32,6 @@ This data was retrieved from [Kaggle](https://www.kaggle.com/competitions/house-
   <br>
   <img src="/assets/img/portfolio/descriptive_stats.png" alt="all graphs" width=600>
 </p>
-   
-<br>
 
 ## Methods
 
@@ -80,8 +78,6 @@ Rejected the null that there is no significant difference in means between house
   <img src="/assets/img/portfolio/test-bedrooms.png" alt="all graphs" width=600>
 </p>
 
-<br>
-
 #### Car Garages
 
 2 car garages sold the most consisting of 56.44% of homes sold with the revenue at $151,493,771.
@@ -94,8 +90,6 @@ Rejected the null that there is no significant difference in means between house
   <br>
   <img src="/assets/img/portfolio/test-garages.png" alt="all graphs" width=600>
 </p>
-
-<br>
 
 #### Fireplaces
 
@@ -110,8 +104,6 @@ Rejected the null that there is no significant difference in means between house
   <img src="/assets/img/portfolio/test-fireplaces.png" alt="all graphs" width=600>
 </p>
 
-<br>
-
 #### Overall Quality
 
 Higher quality homes (6-10 rating) sold more than lower quality homes, accounting for 63.15% of total home sales, and brought in $196,554,295 in revenue.
@@ -125,8 +117,6 @@ Rejected the null that there is no significant difference in means between house
   <img src="/assets/img/portfolio/test-quality.png" alt="all graphs" width=600>
 </p>
 
-<br>
-
 #### Central Air
 
 Homes with Central Air sold more than homes without it, accounting for 93.49% of total home sales and bringing in $254,144,859 in revenue.
@@ -139,8 +129,6 @@ Rejected the null that there is no significant difference in means between house
   <br>
   <img src="/assets/img/portfolio/test-centralair.png" alt="all graphs" width=600>
 </p>
-
-<br>
 
 ## Top variables that drive home prices
 
@@ -156,7 +144,6 @@ Rejected the null that there is no significant difference in means between house
   <img src="/assets/img/portfolio/all-graphs.png" alt="all graphs" width=600>
 </p>
 
-<br>
 
 ## Call to Action
 
