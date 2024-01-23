@@ -9,8 +9,6 @@ caption:
   thumbnail: assets/img/portfolio/neighborhood.png
 ---
 
-<img src="assets/img/portfolio/neighborhood.png" alt="Excel" height="200"/>
-
 This presentation analyzes the factors that drive home prices by providing data-driven insights for an investment bank. Variables that provide impact on prices will be identified in order to provide informed decisions on how to allocate dollars earmarked for investment into mortgage-backed securities.  
 
 ## About the Data
