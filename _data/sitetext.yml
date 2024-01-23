@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My Story"
-    body: "I am currently looking for opportunities as a Data Analyst. <br><br>With proficiency in dashboarding, performance tracking, Python (Pandas, NumPy, Seaborn), Excel, SQL, Tableau, and R to transform data into meaningful and easily understood visualizations and presentations, I enjoy leveraging data-driven insights to uncover meaningful patterns, optimize business strategies, and drive informed decision-making. <br><br>I grew up around the New England area in the U.S. but have traveled all over since my service in the U.S. Navy. Outside of data, I enjoy traveling, history, video games, and food!"
+    body: "<div align="center"><img src="/assets/img/angela.png" alt="angela" style="border-radius: 50%; width: 150px; height: 150px;"></div><br>I am currently looking for opportunities as a Data Analyst. <br><br>With proficiency in dashboarding, performance tracking, Python (Pandas, NumPy, Seaborn), Excel, SQL, Tableau, and R to transform data into meaningful and easily understood visualizations and presentations, I enjoy leveraging data-driven insights to uncover meaningful patterns, optimize business strategies, and drive informed decision-making. <br><br>I grew up around the New England area in the U.S. but have traveled all over since my service in the U.S. Navy. Outside of data, I enjoy traveling, history, video games, and food!"
     section: about
     
   services:
