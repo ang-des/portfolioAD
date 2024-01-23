@@ -33,7 +33,7 @@ en: &DEFAULT_EN
       - title: "Software/Tools"
         desc: "Python (Pandas/NumPy/Seaborn). SQL. PostgreSQL. Microsoft Excel. Microsoft PowerPoint. Tableau. R."
         icon: fas fa-laptop
-        align: right
+        align: center
       # - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
       #   desc: "Your description here, full **Markdown** support"
       #   icon: fab fa-markdown
