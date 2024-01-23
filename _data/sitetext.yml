@@ -29,13 +29,13 @@ en: &DEFAULT_EN
     list:
       - title: "Skills"
         desc: "Statistical Analysis. A/B testing. Predictive Analytics. Descriptive Statistics. Data Cleansing. Data Visualization. Data Exploration."
-        icon: fa fa-bar-chart #find more at https://fontawesome.com/icons
+        icon: fa fa-cog #find more at https://fontawesome.com/icons
       - title: "Software/Tools"
         desc: "Python (Pandas/NumPy/Seaborn). SQL. PostgreSQL. Microsoft Excel. Microsoft PowerPoint. Tableau. R."
         icon: fas fa-laptop
         align: center
       - title: "Education"
-        desc: "B.A. Computer Science - University of Rhode Island. <br>Data Analytics Certificate - Thinkful (Chegg Skills)."
+        desc: "B.A. Computer Science, University of Rhode Island. <br>Data Analytics Certificate, Thinkful (Chegg Skills)."
         icon: fa fa-university
 
   portfolio:
