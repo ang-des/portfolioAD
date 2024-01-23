@@ -1,3 +1,14 @@
+---
+title: Product Purchases Data
+image: assets/img/portfolio/shopping.png
+alt: SQL
+
+caption:
+  title: Product Purchases Data
+  subtitle: SQL
+  thumbnail: assets/img/portfolio/shopping.png
+---
+
 # Product Purchases Data
 
 1. Write a query that returns the count for all records in the purchases table.  
