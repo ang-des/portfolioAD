@@ -1,12 +1,12 @@
 ---
 title: Pet Salon Transactions
-image: assets/img/portfolio/pets.png
+image: assets/img/portfolio/pet.png
 alt: SQL
 
 caption:
   title: Pet Salon Transactions
   subtitle: SQL
-  thumbnail: assets/img/portfolio/pets.png
+  thumbnail: assets/img/portfolio/pet.png
 ---
 
 # Pet Salon Transactions
