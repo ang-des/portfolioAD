@@ -27,6 +27,11 @@ This data was retrieved from [Kaggle](https://www.kaggle.com/competitions/house-
 2. Which type of homes are most frequently sold in the market; is there a relationship between the age or condition and their selling prices?
 3. Are there any observable patterns or trends indicating which combinations of home types and neighborhoods attract the highest number of buyers/selling prices?
 4. Do certain neighborhoods have higher home prices compared to others?
+
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/descriptive_stats.png" alt="all graphs" width=600>
+</p>
    
 <br>
 
@@ -70,6 +75,11 @@ With 95% confidence, the difference in means is between $32,101 and $13,617.
 
 Rejected the null that there is no significant difference in means between houses that have 2 bedrooms and those that have 3.
 
+<p align="center">
+  <br>
+  <img src="/assets/img/portfolio/test-bedrooms.png" alt="all graphs" width=600>
+</p>
+
 <br>
 
 #### Car Garages
@@ -82,7 +92,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/assets/img/portfolio/test-garages.png" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/test-garages.png" alt="all graphs" width=600>
 </p>
 
 <br>
@@ -97,7 +107,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/assets/img/portfolio/test-fireplaces.png" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/test-fireplaces.png" alt="all graphs" width=600>
 </p>
 
 <br>
@@ -112,7 +122,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/assets/img/portfolio/test-quality.png" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/test-quality.png" alt="all graphs" width=600>
 </p>
 
 <br>
@@ -127,7 +137,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/assets/img/portfolio/test-centralair.png" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/test-centralair.png" alt="all graphs" width=600>
 </p>
 
 <br>
@@ -143,7 +153,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="/assets/img/portfolio/all-graphs.png" alt="all graphs" width=700>
+  <img src="/assets/img/portfolio/all-graphs.png" alt="all graphs" width=600>
 </p>
 
 <br>
