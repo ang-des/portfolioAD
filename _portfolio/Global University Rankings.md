@@ -46,7 +46,7 @@ The data will be used to test the hypotheses in the following ways:
 - Independent t-test to check for average differences. 
 - Visualizations: scatter plots, histograms, heatmap etc.
 
-## How will the findings be used? Who will find it helpful?
+## How will the findings be used?Who will find it helpful?
 
 1. University administrators can use the findings to gain insights into their own institution's performance and compare it with other universities worldwide. 
 2. Government officials and education policymakers may use the findings to understand the factors that contribute to higher-ranking universities. 
@@ -121,7 +121,7 @@ Conversely, for **Hypothesis #2**, an analysis between university ranking score
 ## Recommendations
 
 **Focus on Quality of Education Alongside Other Factors:**
-Although the publications are essential, universities should prioritize providing high-quality education. The analysis showed that world rank and education quality rank are not always directly related. This can be achieved by maintaining rigorous academic standards, investing in faculty development, promoting innovative teaching methods, and continuously assessing and improving educational programs.![image](https://github.com/ang-des/portfolioAD/assets/46694427/03896103-31e8-4709-86ea-a7ec32bb69a2)
+Although the publications are essential, universities should prioritize providing high-quality education. The analysis showed that world rank and education quality rank are not always directly related. This can be achieved by maintaining rigorous academic standards, investing in faculty development, promoting innovative teaching methods, and continuously assessing and improving educational programs.
 
 **Emphasize the importance of Publications:**
 The correlation between publication rank and world rank implies that universities should focus on improving their research output and publications. This can be achieved by investing in research facilities, supporting faculty members in their research, and collaborating with other institutions. 
