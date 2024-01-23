@@ -10,7 +10,7 @@ caption:
 ---
 
 <div align="center">
-  <img src="assets/img/portfolio/Lariat.jpeg" alt="lariat" width="400"/>
+  <img src="/assets/img/portfolio/Lariat.jpeg" alt="lariat" width="400"/>
 </div>
 
 **Lariat Car Rental Company** is a fictitious car rental company that has been featured in a few well-known television series, such as: Breaking Bad, Surpernatural, and Veronica Mars.
@@ -48,16 +48,16 @@ To deliver an interactive dashboard for the shareholders that demonstrates the s
   <br>
   Below is an image that shows the completed Excel Dashboard.
   <br><br>
-  <img src="assets/img/portfolio/excel.png" width="600" alt="excel">
+  <img src="/assets/img/portfolio/excel.png" width="600" alt="excel">
 </p>
 
 Here is a simple visual comparing the profits of each of the calculated strategies compared to the current data pulled from 2018.
 
 <p align="center">
   <br>
-  <img src="assets/img/portfolio/graph1.png" alt="total profits" width=400 height=257>
+  <img src="/assets/img/portfolio/graph1.png" alt="total profits" width=400 height=257>
 
-  <img src="assets/img/portfolio/graph2.png" alt="average profits" width=400>
+  <img src="/assets/img/portfolio/graph2.png" alt="average profits" width=400>
   <br><br>
 </p>
 
@@ -65,14 +65,14 @@ This visual shows the breakdown of the profits including the Total Revenue, Tota
 
 <p align="center">
   <br>
-  <img src="assets/img/portfolio/graph4.png" alt="cost comparison" width=600>
+  <img src="/assets/img/portfolio/graph4.png" alt="cost comparison" width=600>
 </p>
 
 This visual is a Scenario Summary created in Excel to show a simple table view of the numbers for each strategy compared to the baseline data in 2018.
 
 <p align="center">
   <br>
-  <img src="assets/img/portfolio/graph5.png" alt="scenario summary" width=600>
+  <img src="/assets/img/portfolio/graph5.png" alt="scenario summary" width=600>
 </p>
 
 All calculations were done using 25% of the current vehicle inventory or 25% of the current number of rentals to ensure a more accurate comparison.
