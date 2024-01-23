@@ -1,12 +1,12 @@
 ---
-title: Home Pricing Factors
-image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Factors that affect Housing Prices
+image: assets/img/portfolio/neighborhood.png
+alt: Excel
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Factors that affect Housing Prices
+  subtitle: Excel
+  thumbnail: assets/img/portfolio/neighborhood.png
 ---
 
 This presentation analyzes the factors that drive home prices by providing data-driven insights for an investment bank. Variables that provide impact on prices will be identified in order to provide informed decisions on how to allocate dollars earmarked for investment into mortgage-backed securities.  
