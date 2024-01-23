@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Me"
     text: "My Story"
-    body: "I completed a Bachelor of Arts degree in Computer Science from the University of Rhode Island, as well as the Data Analytics Certification from Thinkful (Chegg Skills). I am currently looking for opportunities as a Data Analyst. <br><br>With proficiency in dashboarding, performance tracking, Python (Pandas, NumPy, Seaborn), Excel, SQL, Tableau, and R to transform data into meaningful and easily understood visualizations and presentations, I enjoy leveraging data-driven insights to uncover meaningful patterns, optimize business strategies, and drive informed decision-making. <br><br>I grew up around the New England area in the US but have traveled all over since my service in the US Navy. Outside of data, I enjoy traveling, history, video games, and food!"
+    body: "I am currently looking for opportunities as a Data Analyst. <br><br>With proficiency in dashboarding, performance tracking, Python (Pandas, NumPy, Seaborn), Excel, SQL, Tableau, and R to transform data into meaningful and easily understood visualizations and presentations, I enjoy leveraging data-driven insights to uncover meaningful patterns, optimize business strategies, and drive informed decision-making. <br><br>I grew up around the New England area in the US but have traveled all over since my service in the US Navy. Outside of data, I enjoy traveling, history, video games, and food!"
     section: about
     
   services:
@@ -29,14 +29,14 @@ en: &DEFAULT_EN
     list:
       - title: "Skills"
         desc: "Statistical Analysis. A/B testing. Predictive Analytics. Descriptive Statistics. Data Cleansing. Data Visualization. Data Exploration."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa fa-bar-chart #find more at https://fontawesome.com/icons
       - title: "Software/Tools"
         desc: "Python (Pandas/NumPy/Seaborn). SQL. PostgreSQL. Microsoft Excel. Microsoft PowerPoint. Tableau. R."
         icon: fas fa-laptop
         align: center
-      - title: ""
-        desc: ""
-        icon: fab fa-markdown
+      - title: "Education"
+        desc: "B.A. Computer Science - University of Rhode Island. <br>Data Analytics Certificate - Thinkful (Chegg Skills)."
+        icon: fa fa-university
 
   portfolio:
     title: "Portfolio"
