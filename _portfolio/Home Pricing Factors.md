@@ -122,4 +122,4 @@ Consider properties with two-car garages, as they have demonstrated strong sales
 
 Evaluate homes with an overall quality rating of 6 to 10, as they attract a significant number of buyers. 
 
-[Link to Github](https://github.com/ang-des/home-prices-business-research)https://github.com/ang-des/home-prices-business-research)
+[Link to Github](https://github.com/ang-des/home-prices-business-research)
