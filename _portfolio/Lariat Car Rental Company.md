@@ -1,3 +1,13 @@
+---
+title: Lariat Car Rental Company
+image: assets/img/portfolio/cars.png
+alt: Excel
+
+caption:
+  title: Lariat Car Rental Company
+  subtitle: Excel
+  thumbnail: assets/img/portfolio/cars.png
+---
 
 <div align="center">
   <img src="https://github.com/ang-des/Lariat-Rental-Car/blob/main/images/Lariat.jpeg?raw%253Dtrue" alt="lariat" width="400"/>
