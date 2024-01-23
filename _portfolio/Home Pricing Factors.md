@@ -94,7 +94,7 @@ Rejected the null that there is no significant difference in means between house
 
 <p align="center">
   <br>
-  <img src="https://github.com/ang-des/home-prices-business-research/blob/main/images/all-graphs.png?raw=true" alt="all graphs" width=600>
+  <img src="https://github.com/ang-des/home-prices-business-research/blob/main/images/all-graphs.png?raw=true" alt="all graphs" width=700>
 </p>
 
 ## Top variables that drive home prices
