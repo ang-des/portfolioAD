@@ -1,3 +1,14 @@
+---
+title: Housing Prices Data
+image: assets/img/portfolio/housingmarket.png
+alt: SQL
+
+caption:
+  title: Housing Prices Data
+  subtitle: SQL
+  thumbnail: assets/img/portfolio/housingmarket.png
+---
+
 # Housing Prices Data
 
 <br>
