@@ -30,11 +30,11 @@ There are **two** main questions I would like to answer using this dataset:
 
 ## Hypotheses
 
-**Hypothesis 1** -  (Quality of Education): 
+**Hypothesis 1** -  (Quality of Education): <br>
 *Null Hypothesis (H0)*: There is no significant difference in the quality of education provided by higher-ranked and lower-ranked universities.
 *Alternative Hypothesis* (H1): Higher-ranked universities provide better quality education than lower-ranked universities.
 
-**Hypothesis 2** - (Number of Publications):
+**Hypothesis 2** - (Number of Publications):<br>
 *Null Hypothesis (H0)*: There is no significant difference in the number of publications between higher-ranked and lower-ranked universities.
 *Alternative Hypothesis (H1)*: Higher-ranked universities have a greater number of publications than lower-ranked universities.
 
