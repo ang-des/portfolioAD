@@ -1,3 +1,14 @@
+---
+title: Department of Education Data
+image: assets/img/portfolio/library.png
+alt: SQL
+
+caption:
+  title: Department of Education Data
+  subtitle: SQL
+  thumbnail: assets/img/portfolio/library.png
+---
+
 # Department of Education Data
 
 1. From the naep table, Write a query that selects column_name and data_type from information_schema.columns.  
