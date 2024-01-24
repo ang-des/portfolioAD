@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Angela Deslandes
+    title: I am a recent graduate in Computer Science located in the Dallas, TX area and also a U.S. Navy Veteran.
     text: It's Nice To Meet You!
     # button: Learn More
     # buttonlink: "#about"
