@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/bally.png
         alt:
       - title: "Palladion Services"
-        year: "2018-2019"
+        year: "2017-2019"
         desc: "<i>Security Officer</i> <br><br>Collaborated with cross-functional teams to provide insights based on surveillance data on three different properties. <br><br>Prepared written reports of daily activities, observations, and incidents to ensure accurate documentation. <br><br>Monitored CCTV security footage for suspicious activity, trespassers, and potential threats."
         image: assets/img/timeline/security.png
         alt:
